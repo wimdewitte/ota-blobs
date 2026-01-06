@@ -2,7 +2,8 @@
   "firmware_updates": {
     "ESP32C3": {
       "version": "1.1",
-      "filename": "firmware_esp32c3_v1.1.bin"
+      "filename": "firmware_esp32c3_v1.1.bin",
+      "sha256": "e34b4b588aa5ab860008131d44cda83754d68b9ffdf14fd84cede7eeab0b692b"
     },
     "ESP32S3": {
       "version": "1.1",
